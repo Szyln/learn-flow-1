@@ -31,3 +31,11 @@ gitGraph
 ### bugfix
 
 - bugfix-1.0：
+
+
+
+
+
+## release note
+### 1.0
+write some lines for release 1.0
